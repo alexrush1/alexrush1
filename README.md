@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexrush1
-- Teamlead Java Backend Developer
-- Now in Intabia
+- Java Backend Developer
+- Now in T-Bank
 
 <!---
 alexrush1/alexrush1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
